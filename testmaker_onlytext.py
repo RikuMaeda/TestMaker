@@ -6,7 +6,7 @@ import pyocr
 text = "77616, 267540の最大公約数を,ユークリッドの互除法によって求めなさい。"
 
 # APIキーの設定
-openai.api_key = "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"
+openai.api_key = "APIKEY"
 
 assistant_roll = input("科目名を入れてください：")
 
